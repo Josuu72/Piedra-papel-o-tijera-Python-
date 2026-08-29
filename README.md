@@ -3,7 +3,7 @@ Juego clásico y simple "piedra, papel o tijera" contra un oponente con 3 oportu
 
 El objetivo de por qué hice este primer proyecto es para ejercitar la lógica de la programación.
 
-```# ¡Piedra, papel o tijera! (finalizado en 🗓️ 20/08/2026) - Proyecto 01
+```python
 
 import random
 
