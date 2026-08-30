@@ -11,4 +11,4 @@ Simplemente guardar y documentar el progreso en el aprendizaje de desarrollo de 
 2. Descarga o simplemente cloná este repositorio.
 3. Ejecuta el juego dentro de tu terminal:
 
-> python main.py
+```python main.py```
