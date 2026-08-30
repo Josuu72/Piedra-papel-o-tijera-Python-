@@ -12,4 +12,3 @@ Simplemente guardar y documentar el progreso en el aprendizaje de desarrollo de 
 3. Ejecuta el juego dentro de tu terminal:
 
 ```python main.py```
-main.py
